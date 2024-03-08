@@ -15,7 +15,7 @@ def oppgave_a ():
             print(accumlated_discrepancy)
 
 #accumulated discrepancy is = 3.859230491798371e-05 s
-#oppgave_a()
+oppgave_a()
 
 #oppgave b
 
@@ -28,7 +28,7 @@ def oppgave_b ():
 
 #location_discrepancy = 12864.101639327902m 
 
-#oppgave_b()
+oppgave_b()
     
 #oppgave c
 
@@ -39,9 +39,6 @@ def oppgave_c ():
     print(number_of_seconds)
 
 #number of seconds before 500m discrepancy = 1.5000000000000002e-06
-#oppgave_c()
+oppgave_c()
 
 #oppgave d
-    
-def oppgave_d(): 
-     
